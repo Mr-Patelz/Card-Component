@@ -7,9 +7,9 @@
 
   Users should be able to:
 
-    View the optimal layout for the site depending on their device's screen size
-    See hover states for all interactive elements on the page
-    Switch between viewing Daily, Weekly, and Monthly stats
+   - View the optimal layout for the site depending on their device's screen size
+   - See hover states for all interactive elements on the page
+   - Switch between viewing Daily, Weekly, and Monthly stats
 # Screenshot
  ![Screenshot 2021-11-19 131058](https://user-images.githubusercontent.com/54317834/142584321-aebcf82a-a681-4494-86da-941ae07b2961.jpg)
  
