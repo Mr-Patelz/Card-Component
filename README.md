@@ -1,6 +1,6 @@
 # About
 
-  This is a solution to the Time tracking dashboard challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+  This is a solution to the challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 
 # Overview
